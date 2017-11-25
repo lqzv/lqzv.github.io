@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "新的开始"
-categories: Other
+categories: Jekyll
 tags: Other
-author: Xixia
-description: The read me page of jekyll-xixia.
+author: lqzv
+description: 开始新的学习的记录.
 ---
 
 我要认真学习一下三维，努力做到精通
